@@ -11,6 +11,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/ExamenC_01.unity
     guid: a3ce83f2adcbf4015bad87a5f4260719
+  - enabled: 1
+    path: Assets/Scenes/ExamenC_02.unity
+    guid: 4aa1a306896ee99438b82c539e236b3c
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 6962656f902ea6d4b8bb533983414cdc,
       type: 2}
