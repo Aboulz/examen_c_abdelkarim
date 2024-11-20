@@ -5,7 +5,8 @@ using UnityEngine.SceneManagement;
 
 public class SceneLoader : MonoBehaviour
 {
-  private void LoadScene(){
+  public void LoadScene()
+  {
     SceneManager.LoadScene("ExamenC_02");
   }
 }
